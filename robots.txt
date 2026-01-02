@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.codaic.com/sitemap.xml
+Sitemap: https://codaic.com/sitemap.xml
